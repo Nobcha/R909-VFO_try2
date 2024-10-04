@@ -8,34 +8,35 @@ I will remodel the Chinese airband receiver wih R909-VFO to incorpolate the digi
 
 We shall use the data in /R909-VFO/.
 
-Files list uploaded on GITHUB  https://github.com/Nobcha/R909-VFO/
+Files list uploaded on GITHUB         https://github.com/Nobcha/R909-VFO/
 
-File application	　　　　　　　　　　　　　　　　　　　Files name  
+File application	　　　　　　　　　　　　　　　   　　　　Files name  
 
-1	R909-VFO technical manual（Japanese edition）	　　　R909-VFO_Manual_ja.pdf
+1	R909-VFO technical manual（Japanese edition）    　R909-VFO_Manual_ja.pdf
 
-2	R909-VFO technical manual（English edition）	　　　　R909-VFO_Manual_en.pdf
+2	R909-VFO technical manual（English edition）   　　R909-VFO_Manual_en.pdf
 
-3	Gerber file of the R909-DSP_Panel PCB	　　　　　　　5531_ATm_25.kicad_pcb.zip
+3	Gerber file of the R909-DSP_Panel PCB      	         　5531_ATm_25.kicad_pcb.zip
 
-4	Gerber file of the R909-DSP_front&back-panel PCB	front-back-p.kicad_pcb.zip
+4	Gerber file of the R909-DSP_front&back-panel PCB                  front-back-p.kicad_pcb.zip
 
-5	i2c address scanner sketch	                      i2c_scanner_R909PANEL-OLED_4732.ino
+5	i2c address scanner sketch	                             i2c_scanner_R909PANEL-OLED_4732.ino
 
-6 Schematic 	                                      R909-VFO_scm_rev.jpg
+6 Schematic 	                                            R909-VFO_scm_rev.jpg
 
-7 Bill of Materials	                                R909-VFO_BOM_en.jpg
+7 Bill of Materials	                                           R909-VFO_BOM_en.jpg
 
 
 The additional data are stored in this repositry.
 
-8 Sketch
+8 Sketch                                                    https://github.com/Nobcha/R909-VFO_try2/blob/main/R909-VFO_ABKITV41.ino
 
-9 Manual  later
+9 Manual                                                    https://github.com/Nobcha/R909-VFO_try2/blob/main/No4_remodel_en2.pdf 
 
-10 The whole BOM  later
+10 The whole BOM                                            https://github.com/Nobcha/R909-VFO_try2/blob/main/CON_NO4_BOM1.jpg
 
-11 Remodeling circuits, Connection board circuit  later
+11 Remodeling overview,                                    https://github.com/Nobcha/R909-VFO_try2/blob/main/no4_BD.bmp
+   Connection board circuit                                https://github.com/Nobcha/R909-VFO_try2/blob/main/CON_NO4_SCM.jpg
 
 Note and thanks
 This trial and design was intended for nobcha(JA3KPA)s interesting and usage personally. I shall not assure the result. To follow this trial you shall prepare a certain knowledge and skill to produce, assemble, and solder. After you understand the contents of the schematic and the parts on the BOM, you shall start experiment.
