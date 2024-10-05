@@ -1,7 +1,7 @@
 # R909-VFO_try2 
 I will remodel the Chinese airband receiver wih R909-VFO to incorpolate the digital local oscillator.
 
-1. I would like to recommend this trial for the people who bought the Chinese airband receiver kit and is stocked it on the shelf undemanded.
+1. I would like to recommend this trial for the people who bought the Chinese airband receiver kit and held it on the shelf undemanded.
    I will introduce 3 remodeling features. Digital local oscillator, squelch improving, and sharper filter. 
 
 2. According with designing R909-DSP of Si4732＋Si5351a＋Arduino radio board, I got R909-VFO borard. We can divert this VFO for the obsolete radio kit.
