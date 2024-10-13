@@ -38,6 +38,9 @@ The additional data are stored in this repositry.
 11 Remodeling overview,                                    https://github.com/Nobcha/R909-VFO_try2/blob/main/no4_BD.bmp
    Connection board circuit                                https://github.com/Nobcha/R909-VFO_try2/blob/main/CON_NO4_SCM.jpg
 
+![R909-VFO+ABKit](https://github.com/user-attachments/assets/5ab78f53-e18a-42be-92fe-271b64a77e75)
+
+
 Note and thanks
 This trial and design was intended for nobcha(JA3KPA)s interesting and usage personally. I shall not assure the result. To follow this trial you shall prepare a certain knowledge and skill to produce, assemble, and solder. After you understand the contents of the schematic and the parts on the BOM, you shall start experiment.
 I’m much thanking for peoples who are providing WEB information and the libraries of Arduino.
